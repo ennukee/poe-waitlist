@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poe-waitlist/static/css/main.89c3abaf.css",
+    "main.js": "/poe-waitlist/static/js/main.b5417f8f.js",
+    "index.html": "/poe-waitlist/index.html",
+    "main.89c3abaf.css.map": "/poe-waitlist/static/css/main.89c3abaf.css.map",
+    "main.b5417f8f.js.map": "/poe-waitlist/static/js/main.b5417f8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89c3abaf.css",
+    "static/js/main.b5417f8f.js"
+  ]
+}
