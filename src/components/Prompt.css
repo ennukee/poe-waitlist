@@ -1,0 +1,55 @@
+.prompt-item {
+  background-color: #333;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #444;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.prompt-item.selected {
+  border: 1px solid #999;
+}
+
+.delete {
+  position: absolute;
+  margin-right: 10px;
+  color: #f33;
+  font-weight: bold;
+}
+
+.prompt-data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.prompt-full-name.default {
+  font-style: italic;
+}
+
+.prompt-short-name {
+  padding-left: 20px;
+  padding-right: 40px;
+  font-weight: bold;
+}
+
+.trigger-edit, .trigger-save {
+  color: #9f9;
+}
+
+.trigger-edit span:hover, .trigger-save span:hover {
+  cursor: pointer;
+}
+
+
+#inputs.individual {
+  width: 100%
+}
+
+.individual .input-group.long {
+  width: 100%;
+}
